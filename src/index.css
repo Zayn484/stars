@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Avenir,Helvetica,Arial,sans-serif;
+  height: 100%;
+  background-color: #fff!important;
+  color: #2c3e50;
+  margin-top: 20px
+}
+
+.planets-component .planets-container {
+  padding: 15px !important;
+}
+
+.planets-component .planets {
+  display: inline-block;
+  color: #fff;
+  height: 100px;
+  text-align: center;
+  padding: 10px;
+  margin: 0 5px 5px 0;
+  box-sizing: content-box;
+}
+
+.planets-component .planets span {
+  display: block;
+}
+
+.note {
+  font-size: 16px;
+  padding: 15px;
+}
+
+.problem {
+  color: red;
+}
+
+.solution {
+  color: green;
+}
+
+.btn-color {
+ color: #d3ded3
+}
